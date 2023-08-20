@@ -1,0 +1,26 @@
+header {
+	background-color:rgb(160, 233, 160);
+	min-height: 100px;
+	grid-area: header;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+    border: 1px solid black;
+}
+h1 {
+	margin: auto;
+}
+h2{
+      text-align: center;
+      font-weight: bold;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  h3{
+    text-align: center;
+
+    }
+  img{
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+      }
