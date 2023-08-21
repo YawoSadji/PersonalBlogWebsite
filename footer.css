@@ -1,7 +1,0 @@
-footer {
-	background: rgb(160, 233, 160);
-	min-height: 50px;
-	grid-area: footer;
-    border: 3px solid black;
-	text-align: center;
-}
